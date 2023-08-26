@@ -4,7 +4,7 @@ Simple Madlibs form/story genetator with Python, Flask, Jinja
 <p>In this exercise, you’ll use Flask to make a Madlibs game.</p>
 <div class="section" id="about-madlibs">
 <h2>About Madlibs</h2>
-<a class="reference internal image-reference" href="_images/madlibs.jpg"><img alt="_images/madlibs.jpg" src="_images/madlibs.jpg" style="width: 10em;" /></a>
+<a class="reference internal image-reference" href="_images/madlibs.jpg"><img alt="_images/madlibs.jpg" src="https://curric.rithmschool.com/springboard/exercises/flask-madlibs/_images/madlibs.jpg" style="width: 10em;" /></a>
 <p>In Madlibs, you’re asked a series of questions, like this:</p>
 <pre class="literal-block">
 <em>plural_noun</em>: <strong>turnips</strong>
@@ -89,13 +89,13 @@ process for Madlibs.</p>
 <h2>Challenge</h2>
 <p>Write a Flask app that imports the example story. Add a homepage for the
 application that shows a form prompting you for all the words in the story:</p>
-<a class="reference internal image-reference" href="_images/questions.png"><img alt="_images/questions.png" src="_images/questions.png" style="width: 35%;" /></a>
+<a class="reference internal image-reference" href="_images/questions.png"><img alt="_images/questions.png" src="https://curric.rithmschool.com/springboard/exercises/flask-madlibs/_images/questions.png" style="width: 35%;" /></a>
 <p><strong>Don’t hardcode this, though</strong> — you want your form route to be able
 to ask for all of the questions required by the story, not for it to
 have a hard-coded form of asking these exact questions!</p>
 <p>Add a route, <cite>/story</cite>, that shows the resulting story for those answers,
 like this:</p>
-<a class="reference internal image-reference" href="_images/story.png"><img alt="_images/story.png" src="_images/story.png" style="width: 65%;" /></a>
+<a class="reference internal image-reference" href="_images/story.png"><img alt="_images/story.png" src="https://curric.rithmschool.com/springboard/exercises/flask-madlibs/_images/story.png" style="width: 65%;" /></a>
 <p>For now, don’t worry about having template inheritance or a <cite>base.html</cite> —
 later, in further study, you can refactor this to use template inheritance.</p>
 </div>
