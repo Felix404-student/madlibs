@@ -4,7 +4,7 @@ Simple Madlibs form/story genetator with Python, Flask, Jinja
 <p>In this exercise, you’ll use Flask to make a Madlibs game.</p>
 <div class="section" id="about-madlibs">
 <h2>About Madlibs</h2>
-<a class="reference internal image-reference" href="_images/madlibs.jpg"><img alt="_images/madlibs.jpg" src="https://curric.rithmschool.com/springboard/exercises/flask-madlibs/_images/madlibs.jpg" style="width: 10em;" /></a>
+<a class="reference internal image-reference" href="https://curric.rithmschool.com/springboard/exercises/flask-madlibs/_images/madlibs.jpg"><img alt="_images/madlibs.jpg" src="https://curric.rithmschool.com/springboard/exercises/flask-madlibs/_images/madlibs.jpg" style="width: 10em;" /></a>
 <p>In Madlibs, you’re asked a series of questions, like this:</p>
 <pre class="literal-block">
 <em>plural_noun</em>: <strong>turnips</strong>
